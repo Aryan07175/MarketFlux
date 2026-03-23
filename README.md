@@ -94,10 +94,4 @@ The ML service (`ml_service/main.py`) acts as the "brain" of MarketFlux:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
